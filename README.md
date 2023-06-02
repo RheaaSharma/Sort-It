@@ -1,7 +1,7 @@
 # Sort-It
 Get the Sort it Bot! The Sort it bot categories your apps, by providing folder suggestions, for you and suggests apps that should be deleted based on past usage.
 
-This was my submsion for the Sunhack 2021 Hackathon. The end prouct was created with the help of three other teamates.
+This was my submssion for the Sunhack 2021 Hackathon. The end prouct was created with the help of three other teamates.
 
 # Inspiration
 Apart from our college dorm, the send most disorganized this in a college student's life is the application on their phone or their laptop. Therefore, we built sort it!
